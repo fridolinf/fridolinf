@@ -82,6 +82,7 @@
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=fridolinf" alt="GitHub Streak" />
 </a>
+
 ---
 
 <h3 align="left">🏆 GitHub Trophies</h3>

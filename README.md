@@ -1,21 +1,3 @@
-<p align="right">
-  <a href="https://visitcount.itsvg.in">
-    <img
-      src="https://visitcount.itsvg.in/api?id=fridolinf&label=Profile%20Views&pretty=true"
-      alt="Profile views"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZmNDNhMjVmYTU2YTRiMTEzNDljZGFiZmZlN2Q3ZjMyZGIwNzAwYyZjdD1n/UPqYp2tj61XlBhlPbH/giphy-downsized.gif"
-    width="650"
-    height="280"
-    alt="Coding animation"
-  />
-</p>
-
 <h1 align="center">Hi, I'm Frally Fridolin</h1>
 <h3 align="center">
   Software Engineer (Frontend-Heavy) building user-first, high-performance products that scale.

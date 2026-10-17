@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Frally Fridolin</h1>
 <h3 align="center">
-  Software Engineer (Frontend-Heavy) building user-first, high-performance products that scale.
+  Software Engineer building user-first, high-performance products that scale.
 </h3>
 
 <p align="center">
@@ -22,10 +22,7 @@
 ---
 
 ## What I do
-- Build frontend-heavy web apps with strong engineering fundamentals (performance, DX, maintainability).
-- Create animation-forward UI with polished UX while keeping performance budgets in mind.
-- Design scalable component systems and clean state/data flows for real-world product teams.
-- Interested in Web3 where it improves product value (wallet UX, onboarding, identity, payments).
+- Building user-first, high-performance products with systems designed to scale.
 
 ---
 
